@@ -1,0 +1,7 @@
+private class Test 
+{
+    private static void main(String [] args)
+    {
+        // <program code>
+    }
+}
