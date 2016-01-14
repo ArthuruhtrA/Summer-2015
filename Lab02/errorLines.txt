@@ -1,0 +1,2 @@
+                        if (lines[j].contains("//")){
+                        else if (!lines[j].contains("//")) {//Not a comment
